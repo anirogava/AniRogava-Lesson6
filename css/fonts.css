@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Font/ligh/tPoppins-Light.eot');
+    src: url('../fonts/Font/ligh/tPoppins-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Font/light/Poppins-Light.woff2') format('woff2'),
+        url('../fonts/Font/light/Poppins-Light.woff') format('woff'),
+        url('../fonts/Font/light/Poppins-Light.ttf') format('truetype'),
+        url('../fonts/Font/light/Poppins-Light.svg#Poppins-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/Font1/PlayfairDisplay-Regular.eot');
+    src: url('../fonts/Font1PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Font1/PlayfairDisplay-Regular.woff2') format('woff2'),
+        url('../fonts/Font1/PlayfairDisplay-Regular.woff') format('woff'),
+        url('../fonts/Font1/PlayfairDisplay-Regular.ttf') format('truetype'),
+        url('../fonts/Font1/PlayfairDisplay-Regular.svg#PlayfairDisplay-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
