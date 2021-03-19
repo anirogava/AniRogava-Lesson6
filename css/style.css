@@ -1,15 +1,79 @@
 /* Header Styles */
 .logo{
     float: left;
+    margin: 4px 119px 23px 140px;
 }
 .nav{
     float: left;
+    margin-top: 48px;
+    margin-bottom: 49px;
 }
 .nav-a{
     float: left;
     margin-right: 50px;
+    font-size: 16px;
+    font-family: 'Poppins';
 }
 .clear{
     clear: both;
 }
-.header-wraper
+a{
+   color: #181C28;
+}
+.header-wraper{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #FFFFFF;
+    width: 100%;
+    z-index: 30;
+}
+/* Section1 */
+body{
+    padding-top: 120px;
+}
+.container1{
+     position: relative;
+}
+.picture-title{
+    width: 342px;
+    position: absolute;
+    top: 97px;
+    right: 632px;
+    
+}
+.title1{
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-size: 22px;
+    text-align: center;
+}
+.title2{
+    font-family: 'Playfair Display';
+     color: #FFFFFF;
+     font-size: 48px;
+     font-weight: 900;
+     text-align: center;
+}
+.section1-image{
+    width: 100%;
+}
+/* section 2 */
+.section-title{
+    margin-top: 466px;
+}
+.container2{
+    margin: 0 auto;
+    width: 1331px;
+}
+.box{
+    float: left;
+    width: 636px;
+}
+.box1{
+    margin-right: 52px;
+    margin-bottom: 57px;
+}
+.box2{
+    margin-bottom: 57px;
+}
