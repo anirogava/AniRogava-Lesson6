@@ -60,7 +60,12 @@ body{
 }
 /* section 2 */
 .section-title{
-    margin-top: 466px;
+    margin-top: 84px;
+    margin: 84px 0 81px 30px;
+    font-family: 'Poppins';
+    color: #FF7A00;
+    font-size: 22px;
+    font-weight: 500;
 }
 .container2{
     margin: 0 auto;
@@ -76,4 +81,39 @@ body{
 }
 .box2{
     margin-bottom: 57px;
+}
+.box3{
+    margin-right: 52px;
+}
+.box-title{
+    padding: 20px 0 22px 0;
+    font-family: 'Playfair Display';
+    font-weight: bold;
+    font-size: 36px;
+}
+.paragraph{
+    font-family: 'Poppins';
+    font-size: 16px;
+    color: #7B7B7B;
+    font-weight: 200;
+    width: 600px;
+}
+.read-more1{
+    width: 47px;
+    height: 4px;
+    background-color: #FF7A00;
+    float: left;
+    margin-top: 22px;
+}
+.read-more{
+    float: left;
+    margin: 13px 18px 0 0;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 14px;
+    color: #FF7A00;
+}
+.read-more::after{
+    content: '';
+    clear: both;
 }
